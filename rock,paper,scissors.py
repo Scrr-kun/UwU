@@ -1,3 +1,5 @@
+#simple rock,paper,scissors game, can be run in a IDE(i made it in pycharm) to see how it works
+#for someone that started programing a week and a half ago its pretty good i think
 import random
 while True:
     choices = ["rock","paper","scissors"]
